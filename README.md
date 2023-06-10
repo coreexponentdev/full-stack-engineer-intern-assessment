@@ -26,5 +26,5 @@ Push your code here, send a link if you deployed the application.
 
 ## Bonus
 Choose one of the following:
-* Finish the BackEnd (REST API), FrontEnd application and connect them together.
+* Finish both, the BackEnd (REST API) and FrontEnd application and then connect them together.
 * Deploy any of the REST API / Application to a Cloud platform (ex. AWS or Azure).
