@@ -12,8 +12,20 @@ An IP Address Management REST API on top of any database of your choice. It has 
 
 
 ## Frontend
-Create a frontend application using frontend technologies such as HTML, CSS, JavaScript.
-Make sure to utilize the REST API you created in the previous section.
+- Choose one of the following:
+* Create a frontend application using frontend technologies such as HTML, CSS, JavaScript utilizing the REST API you created in the previous section.
+
+* Create a frontend application as follows:
+##### Air Quality Assessment Tool
+
+Create a simple Air Quality Assessment Tool using the front end technologies of your choice that utilizes Open AQ (https://docs.openaq.org/docs) Platform API. It will have the ability to compare the Air Quality of two cities.
+
+The tool must:
+
+Allow the user to input two cities
+Display the air quality of the corresponding cities, allowing the user to compare the two
+Gracefully handle any API or user errors
+Tool should be easily used by the general public
 
 
 ## Submission
